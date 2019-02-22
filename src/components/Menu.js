@@ -49,9 +49,14 @@ const Menu = () => {
     <Header>
       <Nav>
         <ul>
+        <li>
+            <Link to="/landing" activeStyle={activeLinkStyle}>
+              Landing
+            </Link>
+          </li>
           <li>
             <Link to="/" activeStyle={activeLinkStyle}>
-              Home
+              Blog
             </Link>
           </li>
           <li>
