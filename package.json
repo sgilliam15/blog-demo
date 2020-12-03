@@ -5,7 +5,7 @@
   "repository": "https://github.com/ryanwiemer/gatsby-starter-gcn",
   "author": "Ryan Wiemer <ryan@ryanwiemer.com>",
   "dependencies": {
-    "babel-plugin-styled-components": "^1.10.0",
+    "babel-plugin-styled-components": "^1.11.1",
     "chalk": "^2.4.1",
     "classnames": "^2.2.6",
     "contentful-import": "^7.4.3",
